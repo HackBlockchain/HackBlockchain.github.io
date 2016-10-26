@@ -1,0 +1,43 @@
+/*Countdown
+------------------------------------*/
+.coming-soon {
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    top: -70px;
+}
+
+#defaultCountdown {
+	width: 100%;
+	margin: 10px 0;
+	overflow: hidden;
+    display: block;
+}
+
+#defaultCountdown span.countdown_row {
+	overflow: hidden;
+}
+
+#defaultCountdown span.countdown-section {
+	margin: 2px;
+	width: 150px;
+	margin-bottom: 20px;
+	text-align: center;
+	display: inline-block;
+}
+
+#defaultCountdown span.countdown-amount {
+	color: #fff;
+	display: block;
+	font-weight: 200;
+	font-size: 45px !important;
+	line-height: 45px !important;
+  	font-family: 'Open Sans', sans-serif;
+}
+
+#defaultCountdown span.countdown-period {
+	color: #fff;
+	display: block;
+	font-weight: 200;
+	font-size: 14px !important;
+}
