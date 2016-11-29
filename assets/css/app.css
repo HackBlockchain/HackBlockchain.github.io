@@ -6,6 +6,7 @@
  * Website: http://htmlstream.com
 */
 
+/*Additional Revisions Made By Shannon Foster*/
 /*Thematic Break
 ------------------------------------*/
 hr {
@@ -673,14 +674,14 @@ a.btn-u-xs {
 }
 
 .btn-u.btn-u-red {
-	background: #e74c3c;
+	background: #00a9e8;
 }
 .btn-u.btn-u-red:hover,
 .btn-u.btn-u-red:focus,
 .btn-u.btn-u-red:active,
 .btn-u.btn-u-red.active,
 .open .dropdown-toggle.btn-u.btn-u-red {
-	background: #c0392b;
+	background: #7F7F7F;
 }
 .btn-u.btn-u-split-red.dropdown-toggle {
 	border-left: solid 1px #c0392b;
@@ -694,10 +695,10 @@ a.btn-u-xs {
 .btn-u.btn-u-orange:active,
 .btn-u.btn-u-orange.active,
 .open .dropdown-toggle.btn-u.btn-u-orange {
-	background: #d35400;
+	background: #7F7F7F;
 }
 .btn-u.btn-u-split-orange.dropdown-toggle {
-	border-left: solid 1px #d35400;
+	border-left: solid 1px #7F7F7F;
 }
 
 .btn-u.btn-u-sea {
